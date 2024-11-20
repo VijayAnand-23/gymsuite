@@ -4,7 +4,7 @@ import React from 'react';
 const Payment = () => {
   return (
     <div>
-      <h2>Payments</h2>
+      <h2>Payment</h2>
       <form>
         {/* Include your payment fields and logic here */}
         <input type="text" placeholder="Member ID" />
